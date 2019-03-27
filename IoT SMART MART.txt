@@ -1,0 +1,11 @@
+The name of our Project was SmartMart. It prosposed a solution for the problems in the Retail industry.
+Few of the Hardwares used were Weight Sensors, EP8266 Wifi Module, AVR Development Board, etc. 
+Softwares used were Atmel Studio, AVR Dude and ThingsSpeak Platform.
+The project had two parts i.e. Smart Cart and Weight Sensor Shelves.
+The project helped in keeping track of products in a store which will curb the problem of misplaced items. 
+It also sent real time updates of stock using the ThingsSpeak platform which would enable retailers to restock shelves as and when required.
+The SmartCart counts the number of items added using the RFID Tags and reader, and automatically display the amount to be paid by customer.
+
+
+Link for the YouTube video - https://youtu.be/R5QCN7UCP5S
+
